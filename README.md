@@ -89,7 +89,7 @@ mount /dev/yourEfiPartition /mnt/boot
 ### Install linux-kernel and base packages:
 For amd: `amd-ucode` for intel: `intel-ucode`
 ```
-pacstrap /mnt base linux linux-firmware nano vim intel-ucode 
+pacstrap /mnt base linux linux-firmware nano vim intel-ucode linux-headers
 ```
 
 ### Generate partition table:
