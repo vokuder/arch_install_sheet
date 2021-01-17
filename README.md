@@ -189,7 +189,3 @@ uncomment: `%wheel ALL=(ALL) ALL`
 
 ### Exit and reboot:
 `exit` -> `umount -a` -> `reboot`
-
-
-# DONE Hurray
-Procced with i3 install sheet.
