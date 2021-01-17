@@ -7,6 +7,10 @@ Intel: `pacman -S xf86-video-intel`
 ```
 pacman -S xorg i3 dmenu lightdm lightdm-gtk-greeter lightdm-gtk-greeter-settings picom
 ```
+Enable lightdm service:
+```
+systemctl enable lightdm
+```
 
 ### Fonts and themes:
 ```
