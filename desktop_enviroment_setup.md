@@ -1,1 +1,1 @@
-# Desktop envvironment setup:
+# Desktop environment setup:
