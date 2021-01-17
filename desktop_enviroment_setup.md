@@ -20,4 +20,5 @@ pacman -S ttf-dejavu papirus-icon-theme materia-gtk-theme
 
 ### Install basic utilities:
 ```
-pacman -S nautilus xfce4-terminal lxappearance firefox network-manager-applet
+pacman -S nautilus xfce4-terminal lxappearance firefox network-manager-applet pulseaudio alsa-utils
+```
