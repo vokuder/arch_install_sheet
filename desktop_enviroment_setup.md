@@ -24,7 +24,6 @@ pacman -S nautilus xfce4-terminal lxappearance firefox network-manager-applet pu
 ```
 and
 ```
-```
 pacman -S vlc git libreoffice
 ```
 
