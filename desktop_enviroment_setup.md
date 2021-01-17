@@ -32,3 +32,9 @@ pacman -S vlc git libreoffice firefox xfce4-screenshooter
 ```
 pacman -S arandr
 ```
+
+### Working with windows together:
+Install ntfs filesystem support:
+```
+sudo pacman -S ntfs-3g
+```
