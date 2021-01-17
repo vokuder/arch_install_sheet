@@ -22,3 +22,6 @@ pacman -S ttf-dejavu papirus-icon-theme materia-gtk-theme
 ```
 pacman -S nautilus xfce4-terminal lxappearance firefox network-manager-applet pulseaudio alsa-utils pavucontrol xfce4-screenshooter
 ```
+and
+```
+pacman -S vlc git libreoffice
