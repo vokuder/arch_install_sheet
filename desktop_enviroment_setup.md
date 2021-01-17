@@ -20,11 +20,12 @@ pacman -S ttf-dejavu papirus-icon-theme materia-gtk-theme
 
 ### Install basic utilities:
 ```
-pacman -S nautilus xfce4-terminal lxappearance firefox network-manager-applet pulseaudio alsa-utils pavucontrol xfce4-screenshooter
+pacman -S nautilus xfce4-terminal lxappearance network-manager-applet pulseaudio alsa-utils pavucontrol
 ```
-and
+
+### Office / Daily tools
 ```
-pacman -S vlc git libreoffice
+pacman -S vlc git libreoffice firefox xfce4-screenshooter
 ```
 
 ### Install xrandr monitor configuration tool:
